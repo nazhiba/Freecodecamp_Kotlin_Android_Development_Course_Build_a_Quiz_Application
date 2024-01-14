@@ -6,3 +6,7 @@
 
 
 <a href="https://www.youtube.com/watch?v=kNghEbknLs8&t=554s">Freecodecamp.org</a>
+<br>
+
+
+<a href="https://youtu.be/kNghEbknLs8?t=3703">Progress video</a>
