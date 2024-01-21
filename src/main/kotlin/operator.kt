@@ -25,5 +25,22 @@ fun main() {
         println("terindikasi menggunakan otak bajakan")
     }
 
+    val isactive = false
+    if (!isactive){
+        println("online")
+    }else{
+        println("offline")
+    }
+
+    val HTTPstatus = 200
+    if (!isactive && HTTPstatus == 200){
+        println("requests accepted")
+    }else if (HTTPstatus == 500){
+        println("Server lelah kepanasan:(")
+    }
+    else{
+        println("kouta habis")
+    }
+
 
 }
